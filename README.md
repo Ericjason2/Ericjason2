@@ -1,4 +1,4 @@
-# Hi, I'm [Eric] 👋
+# Hi, I'm [Eric] 
 
 I'm a Full-Stack developer in training, passionate about building clean and meaningful web applications.
 
