@@ -7,7 +7,9 @@ I'm a Full-Stack developer in training, passionate about building clean and mean
 ## 🛠 Tech Stack
 
 **Frontend**
+- HTML5
 - React.js / Next.js
+- CSS3
 - Tailwind CSS
 
 **Backend**
