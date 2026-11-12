@@ -9,6 +9,7 @@ I'm a Full-Stack developer in training, passionate about building clean and mean
 **Frontend**
 - HTML5
 - React.js / Next.js
+- TypeScript
 - CSS3
 - Tailwind CSS
 
@@ -16,7 +17,8 @@ I'm a Full-Stack developer in training, passionate about building clean and mean
 - Node.js / Express
 
 **Database**
-- SQL & NoSQL (MySQL, SQL Lite, MongoDB)
+- SQL (MySQL, SQL Lite)
+- NoSQL (MongoDB)
 
 ---
 
