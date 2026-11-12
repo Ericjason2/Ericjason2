@@ -1,10 +1,10 @@
 # Hi, I'm [Eric] 
 
-I'm a Full-Stack developer in training, passionate about building clean and meaningful web applications.
+I'm a Software Engineer and Full-Stack developer, passionate about building clean and meaningful web applications.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend**
 - HTML5
@@ -22,14 +22,14 @@ I'm a Full-Stack developer in training, passionate about building clean and mean
 
 ---
 
-## 🌱 Currently
+##  Currently
 
 - Sharpening my Full-Stack skills through personal projects
 - Exploring best practices in web architecture and clean code
 
 ---
 
-## 📫 Get in touch
+##  Get in touch
 
 - 📍 Douala, Cameroon
 - ✉️ erickouta6@gmail.com
